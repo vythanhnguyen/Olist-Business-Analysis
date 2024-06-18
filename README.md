@@ -4,7 +4,17 @@ This is a project to analyse on the customers, products and orders of the Brazil
 Olist - the largest department store in Brazilian marketplaces, connects small businesses from all over Brazil to channels without hassle and with a single contract. Those merchants are able to sell their products through the Olist Store and ship them directly to the customers using Olist logistics partners. 
 
 After a customer purchases the product from Olist Store a seller gets notified to fulfill that order. Once the customer receives the product, or the estimated delivery date is due, the customer gets a satisfaction survey by email where he can give a note for the purchase experience and write down some comments.
-## Objective
+## Process
+Data collection: Collect data from Kaggle by access https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_geolocation_dataset.csv
+
+Data cleaning: Clean and prepare raw data for analysis by removing duplicates and handling missing values
+
+Data analysis: Support to conduct exploratory data analysis to identify trends and patterns
+
+Visualization: Prepare visualizations and chart to effectively communicate findings to stakeholders
+
+Reporting: Support to create reports and dashboards using tools such as Excel, Power BI.
+
 ## Database Schema
 ![Database](https://github.com/vythanhnguyen/Olist-Business-Analysis/assets/162904704/ad9274ca-668f-46a3-96cc-ba8d2021b46b)
 ## Data Visualization 
