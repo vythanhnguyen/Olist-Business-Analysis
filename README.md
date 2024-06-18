@@ -5,15 +5,16 @@ Olist - the largest department store in Brazilian marketplaces, connects small b
 
 After a customer purchases the product from Olist Store a seller gets notified to fulfill that order. Once the customer receives the product, or the estimated delivery date is due, the customer gets a satisfaction survey by email where he can give a note for the purchase experience and write down some comments.
 ## Process
-Data collection: Collect data from Kaggle by access https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_geolocation_dataset.csv
+1. Data collection: Collecting data from Kaggle by accessing link below: 
+(https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
-Data cleaning: Clean and prepare raw data for analysis by removing duplicates and handling missing values
+2. Data cleaning: Using Excel to carry out the ETL process. Clean and prepare raw data for analysis by combinding Worksheets, handling missing values, removing redundant information, etc,..
 
-Data analysis: Support to conduct exploratory data analysis to identify trends and patterns
+3. Data analysis: Conduct exploratory data analysis to identify trends and patterns.
 
-Visualization: Prepare visualizations and chart to effectively communicate findings to stakeholders
+4. Visualization: Create reports and dashboards using Power BI.
 
-Reporting: Support to create reports and dashboards using tools such as Excel, Power BI.
+5. Propose some recommendations and improvements to develop marketing strategies.
 
 ## Database Schema
 ![Database](https://github.com/vythanhnguyen/Olist-Business-Analysis/assets/162904704/ad9274ca-668f-46a3-96cc-ba8d2021b46b)
